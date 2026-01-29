@@ -7,14 +7,13 @@ This repository contains the 3D design for a modular, differential-drive mobile 
 ##  Design Gallery
 
 Click the blue links below to review the design from different angles:
-* 🔍 **[Isometric View of Assembly]([https://github.com/AmeerAlquliti/Robot-Arm/blob/main/E657EEE7-7A57-4389-AFA5-3F74D110D377.png](https://github.com/AmeerAlquliti/TTmotor/blob/main/iso.png))**
+* 🔍 **[Isometric View of Assembly](https://github.com/AmeerAlquliti/TTmotor/blob/main/iso.png)**
 
-* 🔍 **[Top-Down Chassis Layout]([https://github.com/AmeerAlquliti/Robot-Arm/blob/main/59809342-6601-4520-9210-3FEE0DD7574F.png](https://github.com/AmeerAlquliti/TTmotor/blob/main/topview.png))**
+* 🔍 **[Top-Down Chassis Layout](https://github.com/AmeerAlquliti/TTmotor/blob/main/topview.png)**
 
-* 🔍 **[Side Profile & Wheel Alignment]([https://github.com/AmeerAlquliti/Robot-Arm/blob/main/352BA198-3EBB-42EE-882D-C58893F7E998.png](https://github.com/AmeerAlquliti/TTmotor/blob/main/side.png))**
+* 🔍 **[Side Profile & Wheel Alignment](https://github.com/AmeerAlquliti/TTmotor/blob/main/side.png)**
 
 * 🔍 **[Rear View / Motor Clearance](https://github.com/AmeerAlquliti/TTmotor/blob/main/front.png)**
-
 ---
 
 ##  Key Features
